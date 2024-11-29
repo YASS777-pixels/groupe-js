@@ -1,0 +1,19 @@
+.div1{
+   display: flex;
+}
+
+
+
+h1{
+   display: flex;
+   margin-left: 18%;
+}
+P{
+   display: flex;
+   margin-left: 18%; 
+}
+image{
+   display: flex;
+   border-radius: 10PX;
+   
+}
